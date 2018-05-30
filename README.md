@@ -1,5 +1,7 @@
 # Fatoa Telegram-Chat-Bot (Python)
 ## About
+Fatoa Bot is a Telegram Chat Bot which is self Response bot based on User answers .
+
 This app simulate chat bot on telegram application . the project using `telegram API`
 
 ## To Run
